@@ -7,3 +7,8 @@
        * status
        * add
        * commit
+       * log
+       * show
+       * checkuot
+
+       
